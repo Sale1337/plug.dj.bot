@@ -238,7 +238,7 @@
     var basicBot = {
         version: "1.0",
         status: false,
-        name: "basicBot",
+        name: "Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Sale1337/plug.dj.bot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Bot",
+            botName: "basicBot",
             language: "serbian",
             chatLink: "https://rawgit.com/bscBot/source/master/lang/sr.json",
             scriptLink: "https://rawgit.com/Sale1337/plug.dj.bot/master/basicBot.js",
