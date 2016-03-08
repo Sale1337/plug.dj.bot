@@ -240,7 +240,7 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Sale1337/plug.dj.bot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/bscBot/source/master/lang/sr.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "Bot",
             language: "serbian",
             chatLink: "https://rawgit.com/bscBot/source/master/lang/sr.json",
-            scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
+            scriptLink: "https://rawgit.com/Sale1337/plug.dj.bot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
