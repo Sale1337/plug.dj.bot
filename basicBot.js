@@ -249,7 +249,7 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "basicBot",
-            language: "serbian",
+            language: "english",
             chatLink: "https://rawgit.com/bscBot/source/master/lang/sr.json",
             scriptLink: "https://rawgit.com/Sale1337/plug.dj.bot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
